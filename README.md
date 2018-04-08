@@ -46,4 +46,41 @@
 + to finish
 + to complete
 
+![](https://github.com/namakarova/hw6/blob/master/%D1%81%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D1%8B%20(2).jpg)
 
+Только с глаголом <finish> употребляются такие дополнения, как: 
++ touch
++ coffee
++ tea
++ drink
++ breakfast
++ runner-up
++ career
++ second
+
+Пример: *They finished their drinks and as they got up from the table Fernando plucked a sprig of jasmine from the pergola.*
+
+Только с глаголом <complete> употребляются такие дополнения, как:
++ transaction
++ coupon
++ hat-trick
++ form
++ questionnaire
+  
+Пример: *Data will be collected through a self completed questionnaire distributed to all full and part time employees at a random sample of the Company's managed pubs and hotels.*
+
+С обоими глаголами употребляются такие дополнения, как:
++ meal
++ season
++ sentene
++ job
++ work
++ course
++ study
++ task
++ picture
++ programme
++ project
++ process
+
+Пример: * Or I'll come and finish the job myself./The building's shape provided a real technical challenge for the 16 bricklayers who worked in teams of four to complete the job.*
